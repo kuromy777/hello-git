@@ -1,2 +1,2 @@
-print("Mis nalgas")
+print("Mis nalgas nuevas")
 print("poton ")
