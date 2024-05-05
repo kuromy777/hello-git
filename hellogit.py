@@ -1,3 +1,3 @@
 print("Mis nalgas nuevas")
 print("poton ")
-print("nuevo ")
+print("nuevo v2 ")
